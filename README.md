@@ -1,7 +1,7 @@
 # RAGGPT
 RAGGPT is an advanced chatbot interface that allows users to upload PDF documents (like research papers) and interact conversationally with their content. Powered by LangChain, ChatGroq’s LLM, and HuggingFace Embeddings, this app provides context-aware responses and maintains memory across the chat session using Retrieval-Augmented Generation (RAG) and session-based history.
 
-# Tech Stack:
+#Tech Stack:
 Frontend: Streamlit
 
 LLM: Gemma2-9b-It via ChatGroq
